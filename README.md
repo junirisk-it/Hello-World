@@ -1,2 +1,3 @@
 # Hello-World
-Just a test
+Hi everyone!
+This's the first time i edit this file for practising
